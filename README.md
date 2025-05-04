@@ -22,7 +22,7 @@ The original program is de facto a <b>chat GPT written by me in a web browser</b
 
 <img src="media/OpenAI_my_chat_GPT_07.png"/>
 
-In principle and function, it is very similar to the original GPT chat. However, it has the RAG (Retrieval-Augmented Generation) and Function Calling functionality.
+In principle and function, it is very similar to the original GPT chat. However, it has the RAG (Retrieval-Augmented Generation) and Function Calling functionality;
 
 They allow not only for "text conversation" but also for operating on the database and controlling its display by asking common questions by the user. Then the user receives a powerful tool and without even knowing any SQL queries, he can obtain the same with the appropriate questions.
 
